@@ -14,4 +14,5 @@ Example:
 - CD over that repo
 - git remote add MyToolbox https://github.com/NicolasRementeria/MyToolbox.git
 - git fetch MyToolbox --tags
-- git merge --allow-unrelated-histories MyToolbox/master 
+- git merge --allow-unrelated-histories MyToolbox/master
+- git remote remove MyToolbox
